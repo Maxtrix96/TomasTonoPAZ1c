@@ -1,1 +1,1 @@
-autori: Anton Belica antonbelica@gmail.com
+Autori: Anton Belica antonbelica@gmail.com
